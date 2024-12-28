@@ -1,0 +1,2 @@
+1. Navbar modification
+2. Heading animation
